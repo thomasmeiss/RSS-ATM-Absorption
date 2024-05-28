@@ -1,4 +1,4 @@
-# RSS-ATM-Absorption-
+# RSS-ATM-Absorption
 atmospheric absorption models for water vapor (H2O) and dry air
 
 12/21/2022
