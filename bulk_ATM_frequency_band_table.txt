@@ -1,0 +1,35 @@
+33
+index    center frequency            sensor 
+001      1.41                        SMAP, Aquarius, CIMR
+002      6.925                       AMSR-E, AMSR2, AMSR3, CIMR 
+003      7.3                         AMSR2, AMSR3  
+004      10.25                       AMSR3                 
+005      10.65                       AMSR-E, AMSR2, AMSR3, CIMR, TMI     
+006      18.7                        AMSR-E, AMSR2 vpol, AMSR3, WindSat nom, CIMR, COVWR, MWI-2G  
+007      23.8                        AMSR-E, AMSR2 hpol, AMSR3, WindSat, WSF-MWI, COVWR, MWI-2G, AMSU  
+008      36.5                        AMSR-E, AMSR2, AMSR3, CIMR 
+009      89.0                        AMSR-E, AMSR2, AMSR3, GMI, WSF, MWI-2G, AMSU 
+010      6.8                         WindSat
+011      10.7                        WindSat nom
+012      37.0                        WindSat nom, TMI, SSMI  
+013      10.85                       WSF-MWI 
+014      18.85                       WSF-MWI 
+015      36.75                       WSF-MWI 
+016      37.30                       WSF-MWI 
+017      33.9                        COVWR  
+018      31.4                        MWI-2G, AMSU  
+019      19.35                       TMI
+020      21.3                        TMI 
+021      85.5                        TMI, SSMI
+022      22.235                      SSMI 
+023      10.707                      WindSat real
+024      18.6                        AMSR2 hpol real
+025      18.682                      WindSat vpol real
+026      18.727                      WindSat hpol real
+027      19.365                      SSMIS
+028      23.730                      AMSR2 vpol real
+029      37.020                      WindSat real
+030      10.645                      GMI real
+031      18.686                      GMI real
+032      23.809                      GMI real
+033      36.641                      GMI real               
