@@ -1,11 +1,13 @@
 # RSS-ATM-Absorption
-atmospheric absorption models for water vapor (H2O) and dry air
+Atmospheric Absorption Models for Water Vapor (H2O) and Dry Air
 
 12/21/2022
 by Thomas Meissner
 Remote Sensing Systems
 
-RSS atmospheric absorption models for water vapor (H2O) and dry air at microwave frequencies
+RSS atmospheric absorption models for water vapor (H2O) and dry air at microwave frequencies.  
+
+Valid for rain free atmospheres (requires total columnar cloud liquid water to be below 0.25 mm).
 
 based on: 
 
@@ -29,3 +31,7 @@ major changes from [1] to [2]
    T^-1.5 for C-band and above
    T^-0.8 for L-band
    smooth transition (sigmoid function) between L-band and C-band
+
+Update 12/09/2025:
+Added Bulk Formulas for atmospheric absorption for various sensors and frequency bands.
+Lookup file bulk_ATM_frequency_band_table.txt for mapping to frequency band.
